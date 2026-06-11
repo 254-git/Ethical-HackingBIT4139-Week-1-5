@@ -61,4 +61,3 @@ These controls help reduce information exposure and make reconnaissance activiti
 
 The findings indicate that Kenya Airways employs modern enterprise technologies and multiple layers of security controls to protect its public-facing infrastructure. While the organization's online presence naturally creates an attack surface through public services and subdomains, the observed security mechanisms demonstrate an effort to minimize information disclosure and enhance overall security posture.
 
-This format looks professional in a GitHub README and aligns well with the reconnaissance, scanning, and enumeration work you've actually performed.
